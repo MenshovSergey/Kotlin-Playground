@@ -41,7 +41,7 @@
 
     <actions>
 
-        <action id="Kotlin.KotlinPlayground" class="KotlinPlay"
+        <action id="Kotlin.KotlinPlayground" class="org.jetbrains.kotlin.actions.KotlinPlay"
                 text="Kotlin Playground" description="Create new Kotlin Playground">
             <add-to-group group-id="NewGroup"  anchor="before" relative-to-action= "XSLT Stylesheet" />
 
